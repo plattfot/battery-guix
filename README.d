@@ -1,0 +1,1 @@
+Recipe for installing battery in guix
