@@ -1,8 +1,3 @@
-;; (define-module (gnu packages battery)
-;;   #:use-module (guix)
-;;   #:use-module (guix build-system gnu)
-;;   #:use-module (guix licenses))
-
 (define-module (gnu packages battery)
   #:use-module (guix packages)
   #:use-module (guix download)
